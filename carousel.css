@@ -40,9 +40,6 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-section: nth-child(1){
-background-color: powderblue;
-}
 
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
